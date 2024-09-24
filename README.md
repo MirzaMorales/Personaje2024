@@ -41,4 +41,5 @@ Modulo 4
 <img src="https://github.com/user-attachments/assets/c6e645b3-fbdb-4c4a-bf0f-7cd9e03fb5b7" width="800"/>
 
 Modulo 5
+![image](https://github.com/user-attachments/assets/43e67b97-2fd9-4114-8bc4-ef3e45bd0148)
 
