@@ -23,3 +23,20 @@ mi personaje al momento de sentir movimiento delante de el se quita el sombrero 
 ## Enlaces de la simulacion de wokwi
 
 ## Imagen de los examenes de cisco
+Modulo 1
+
+<img src="https://github.com/user-attachments/assets/a63a3777-161c-4c08-a8a5-559eb5514329" width="800"/>
+
+Modulo 2
+
+<img src="https://github.com/user-attachments/assets/7a52ad24-154b-4092-829d-9829f5f92ca7" width="800"/>
+
+
+Modulo 3
+
+
+Modulo 4
+
+
+Modulo 5
+
