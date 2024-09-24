@@ -12,7 +12,7 @@ mi personaje al momento de sentir movimiento delante de el se quita el sombrero 
 |Estambre|<img src="https://github.com/user-attachments/assets/a75e5fa5-a284-41b3-94c4-78e54da04f55" width="60"/>|60g|$30|
 |Papel|<img src="https://github.com/user-attachments/assets/3b409373-e756-401b-ba60-59a7bc675a29" width="60"/>|1|$15|
 |Led|<img src="https://github.com/user-attachments/assets/70a2b337-1064-4443-813c-0e69fe6c41bf" width="60"/>|3|$5|
-|||||
+|catulina negra||1|$3¡6|
 
 
 ## Software a utilizar
