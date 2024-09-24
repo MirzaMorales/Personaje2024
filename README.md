@@ -34,9 +34,11 @@ Modulo 2
 
 Modulo 3
 
+<img src="https://github.com/user-attachments/assets/1feb4030-7f93-46a7-834f-94c8238d0530" width="800"/>
 
 Modulo 4
 
+<img src="https://github.com/user-attachments/assets/c6e645b3-fbdb-4c4a-bf0f-7cd9e03fb5b7" width="800"/>
 
 Modulo 5
 
