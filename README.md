@@ -27,23 +27,27 @@ Thonny
 ## Imagen de los examenes de cisco
 Modulo 1
 
-<img src="https://github.com/user-attachments/assets/a63a3777-161c-4c08-a8a5-559eb5514329" width="800"/>
+<img src="https://github.com/user-attachments/assets/a63a3777-161c-4c08-a8a5-559eb5514329" width="500"/>
 
 Modulo 2
 
-<img src="https://github.com/user-attachments/assets/7a52ad24-154b-4092-829d-9829f5f92ca7" width="800"/>
+<img src="https://github.com/user-attachments/assets/7a52ad24-154b-4092-829d-9829f5f92ca7" width="500"/>
 
 
 Modulo 3
 
-<img src="https://github.com/user-attachments/assets/1feb4030-7f93-46a7-834f-94c8238d0530" width="800"/>
+<img src="https://github.com/user-attachments/assets/1feb4030-7f93-46a7-834f-94c8238d0530" width="500"/>
 
 Modulo 4
 
-<img src="https://github.com/user-attachments/assets/c6e645b3-fbdb-4c4a-bf0f-7cd9e03fb5b7" width="800"/>
+<img src="https://github.com/user-attachments/assets/c6e645b3-fbdb-4c4a-bf0f-7cd9e03fb5b7" width="500"/>
 
 Modulo 5
 
-<img src="https://github.com/user-attachments/assets/e0ee97f3-40e0-4eac-92bc-730996998d6b" width="800"/>
+<img src="https://github.com/user-attachments/assets/e0ee97f3-40e0-4eac-92bc-730996998d6b" width="500"/>
+
+Examen Final
+
+<img src="https://github.com/user-attachments/assets/f5910c55-4f47-41b5-8698-8aa84d1db194" width="500"/>
 
 
