@@ -23,6 +23,9 @@ Thonny
 <img src="https://github.com/user-attachments/assets/c9768425-2304-416f-9596-dcf861a44acc" width="400"/>
 
 ## Enlaces de la simulacion de wokwi
+
+<img src="https://github.com/user-attachments/assets/78225903-019d-4d03-927e-48669a5aea8b" width="500"/>
+
 **Enlace de simulacion de wokwi**
 
 https://wokwi.com/projects/409885428192159745
