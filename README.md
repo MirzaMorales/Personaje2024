@@ -23,11 +23,13 @@ Thonny
 <img src="https://github.com/user-attachments/assets/c9768425-2304-416f-9596-dcf861a44acc" width="400"/>
 
 ## Enlaces de la simulacion de wokwi
-Enlace de simulacion de wokwi
+**Enlace de simulacion de wokwi**
 
 https://wokwi.com/projects/409885428192159745
 
-Enlace al video de la simulacion en wokwi
+**Enlace al video de la simulacion en wokwi**
+
+https://drive.google.com/file/d/1vr2yBmr9TLMkTEiXGaUM-qJfZ-F_OqJC/view?usp=sharing
 
 ## Imagen de los examenes de cisco
 Modulo 1
