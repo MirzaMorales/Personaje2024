@@ -24,15 +24,17 @@ Thonny
 
 ## Enlaces de la simulacion de wokwi
 
-<img src="https://github.com/user-attachments/assets/78225903-019d-4d03-927e-48669a5aea8b" width="500"/>
-
 **Enlace de simulacion de wokwi**
 
 https://wokwi.com/projects/409885428192159745
 
+<img src="https://github.com/user-attachments/assets/78225903-019d-4d03-927e-48669a5aea8b" width="500"/>
+
 **Enlace de simulacion de wokwi del muñeco de nieve navideño**
 
 https://wokwi.com/projects/410233636130625537
+
+<img src="https://github.com/user-attachments/assets/105ad61d-ecdf-4d8e-ae92-f79fab8ca69c" width="500"/>
 
 **Enlace al video de la simulacion en wokwi**
 
