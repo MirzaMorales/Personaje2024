@@ -30,9 +30,17 @@ Thonny
 
 https://wokwi.com/projects/409885428192159745
 
+**Enlace de simulacion de wokwi del muñeco de nieve navideño**
+
+https://wokwi.com/projects/410233636130625537
+
 **Enlace al video de la simulacion en wokwi**
 
 https://drive.google.com/file/d/1vr2yBmr9TLMkTEiXGaUM-qJfZ-F_OqJC/view?usp=sharing
+
+**Video de simulacion del sistema en el Muñeco de nieve**
+
+https://github.com/user-attachments/assets/a059bb5a-e47b-45d8-a60c-8ce2abf8540b
 
 ## Imagen de los examenes de cisco
 Modulo 1
